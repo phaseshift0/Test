@@ -1,0 +1,6 @@
+[submodule "SubmoduleTest"]
+	path = SubmoduleTest
+	url = git@github.com:phaseshift0/SubmoduleTest.git
+[submodule "project2"]
+	path = project2
+	url = https://github.com/phaseshift0/project2.git
